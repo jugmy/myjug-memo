@@ -21,3 +21,11 @@ This is to keep track of the activities for JVM User Group Malaysia. I will defi
 
 # Latest happenings in the Java world
 1. TODO
+
+
+
+
+
+
+# Future Schedules for Events or Online Meetups
+1. TODO
